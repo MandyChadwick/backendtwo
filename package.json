@@ -1,0 +1,23 @@
+{
+  "name": "backendtwo",
+  "version": "1.0.0",
+  "description": "code to show name",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MandyChadwick/backendtwo.git"
+  },
+  "author": "Mandy Chadwick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MandyChadwick/backendtwo/issues"
+  },
+  "homepage": "https://github.com/MandyChadwick/backendtwo#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
