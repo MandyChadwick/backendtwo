@@ -9,9 +9,9 @@ GET http://localhost:8080/contacts/6262ea4c5cff8c45abd85170
 
 //Production Deploy
 ###
-Get https:cse341mandychadwick-1-2.herokuapp.com/contacts
-Get https:cse341mandychadwick-1-2.herokuapp.com/contacts/6262e9dd5cff8c45abd78292
-Get https:cse341mandychadwick-1-2.herokuapp.com/contacts/6262ea1c5cff8c45abd7f7b8
-Get https:cse341mandychadwick-1-2.herokuapp.com/contacts/6262ea4c5cff8c45abd85170
+Get https://cse341mandychadwick-1-2.herokuapp.com/contacts
+Get https://cse341mandychadwick-1-2.herokuapp.com/contacts/6262e9dd5cff8c45abd78292
+Get https://cse341mandychadwick-1-2.herokuapp.com/contacts/6262ea1c5cff8c45abd7f7b8
+Get https://cse341mandychadwick-1-2.herokuapp.com/contacts/6262ea4c5cff8c45abd85170
 
 
