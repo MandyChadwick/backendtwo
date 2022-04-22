@@ -1,3 +1,17 @@
-// LOCALHOST ### GET http://localhost:8080/contacts ### GET http://localhost:8080/contacts/622023f642f9ab4cd6e060b2 ### GET http://localhost:8080/contacts/622023f642f9ab4cd6e060b3 ### GET http://localhost:8080/contacts/622023f642f9ab4cd6e060b4
+// LOCALHOST
+###
+GET http://localhost:8080/contacts
+###
+GET http://localhost:8080/contacts/6262e9dd5cff8c45abd78292
+GET http://localhost:8080/contacts/6262ea1c5cff8c45abd7f7b8
+GET http://localhost:8080/contacts/6262ea4c5cff8c45abd85170
 
-// PRODUCTION Deploy ### GET https://cse341-instructor.herokuapp.com/contacts ### GET https://cse341-instructor.herokuapp.com/contacts/622023f642f9ab4cd6e060b2 ### GET https://cse341-instructor.herokuapp.com/contacts/622023f642f9ab4cd6e060b3 ### GET https://cse341-instructor.herokuapp.com/contacts/622023f642f9ab4cd6e060b4
+
+//Production Deploy
+###
+Get https:cse341mandychadwick-1-2.herokuapp.com/contacts
+Get https:cse341mandychadwick-1-2.herokuapp.com/contacts/6262e9dd5cff8c45abd78292
+Get https:cse341mandychadwick-1-2.herokuapp.com/contacts/6262ea1c5cff8c45abd7f7b8
+Get https:cse341mandychadwick-1-2.herokuapp.com/contacts/6262ea4c5cff8c45abd85170
+
+
