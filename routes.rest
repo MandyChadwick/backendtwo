@@ -25,14 +25,16 @@ Get https://cse341mandychadwick-1-2.herokuapp.com/contacts/6262ea4c5cff8c45abd85
 
 
 ### Create contact 
-POST http://localhost:8080/contacts HTTP/1.1 content-type: application/json
+POST http://localhost:8080/contacts HTTP/1.1 
+content-type: application/json
 
 {
 "firstName":"Bob", "lastName":"Wyatt", "email":"bwyatt@test.com", "favoriteColor":"pink", "birthday":"06/19/1980"
 }
 
 ### PUT contact which means update
-PUT http://localhost:8080/contacts/6262e9dd5cff8c45abd78292 HTTP/1.1 content-type: application/json
+PUT http://localhost:8080/contacts/6262e9dd5cff8c45abd78292 HTTP/1.1 
+content-type: application/json
 
 {
 "firstName":"Dina", "lastName":"Beth", "email":"dbeth@gmail.com", "favoriteColor":"Orange", "birthday":"1/7/77"
@@ -47,14 +49,16 @@ DELETE http://localhost:8080/contacts/6262ea1c5cff8c45abd7f7b8 HTTP/1.1
 
 
 ### Create contact 
-POST https://cse341mandychadwick-1-2.herokuapp.com/contacts HTTP/1.1 content-type: application/json
+POST https://cse341mandychadwick-1-2.herokuapp.com/contacts HTTP/1.1 
+content-type: application/json
 
 {
 "firstName":"Bailey", "lastName":"Wendler", "email":"bwendler@test.com", "favoriteColor":"Red", "birthday":"05/23/2001"
 }
 
 ### PUT 
-contact PUT https://cse341mandychadwick-1-2.herokuapp.com/contacts/6262ea4c5cff8c45abd85170 HTTP/1.1 content-type: application/json
+contact PUT https://cse341mandychadwick-1-2.herokuapp.com/contacts/6262ea4c5cff8c45abd85170 HTTP/1.1 
+content-type: application/json
 
 {
 "firstName":"Sandra", "lastName":"Fox", "email":"sfox@gmail.com", "favoriteColor":"Gold", "birthday":"04/10/2003"
